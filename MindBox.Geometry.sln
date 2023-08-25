@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{59750C08
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{608290AE-C8FC-42E9-8FFF-04AAAD15637B}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MindBox.Products.Database", "MindBox.Products.Database\MindBox.Products.Database.sqlproj", "{8F812A20-1BB6-4948-B280-11074B3DF687}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MindBox.Products.Database", "src\MindBox.Products.Database\MindBox.Products.Database.sqlproj", "{8F812A20-1BB6-4948-B280-11074B3DF687}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
