@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{59750C08
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{608290AE-C8FC-42E9-8FFF-04AAAD15637B}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MindBox.Products.Database", "MindBox.Products.Database\MindBox.Products.Database.sqlproj", "{8F812A20-1BB6-4948-B280-11074B3DF687}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,12 @@ Global
 		{9B991A89-32FC-4D4E-8483-6EE2F70653A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B991A89-32FC-4D4E-8483-6EE2F70653A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B991A89-32FC-4D4E-8483-6EE2F70653A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F812A20-1BB6-4948-B280-11074B3DF687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F812A20-1BB6-4948-B280-11074B3DF687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F812A20-1BB6-4948-B280-11074B3DF687}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8F812A20-1BB6-4948-B280-11074B3DF687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F812A20-1BB6-4948-B280-11074B3DF687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F812A20-1BB6-4948-B280-11074B3DF687}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +47,7 @@ Global
 		{BA6955F8-A6ED-42A2-A976-0E205C7191AF} = {608290AE-C8FC-42E9-8FFF-04AAAD15637B}
 		{140FC395-DD93-4059-896C-5431FB76CCE6} = {608290AE-C8FC-42E9-8FFF-04AAAD15637B}
 		{9B991A89-32FC-4D4E-8483-6EE2F70653A9} = {59750C08-4610-461B-8450-9285FE5E158F}
+		{8F812A20-1BB6-4948-B280-11074B3DF687} = {608290AE-C8FC-42E9-8FFF-04AAAD15637B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {91A5DDF5-A249-49B9-9EF7-8C38634BDFC5}
