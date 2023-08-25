@@ -14,4 +14,4 @@ Call `EXEC [dbo].[ProductsCategories_Insert]` stored procedure to fill tables da
 
 Call `EXEC [dbo].[ProductsCategories_Group]` to watch an output. 
 
-Procedure [dbo].[ProductsCategories_Group] contains SQL query which meets the requirements of the task.
+Procedure `[dbo].[ProductsCategories_Group]` contains SQL query which meets the requirements of the task.
