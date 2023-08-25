@@ -1,4 +1,4 @@
-﻿CREATE PROCEDURE [dbo].[Categories_Insert]
+﻿CREATE PROCEDURE [dbo].[ProductsCategories_Insert]
 AS
 	INSERT INTO [dbo].[Categories]
         ([Id], [Name])
